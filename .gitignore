@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# QGIS project files (optional — uncomment to track them)
+# *.qgs
+# *.qgz
+*.qgs~
+*.qgz~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp

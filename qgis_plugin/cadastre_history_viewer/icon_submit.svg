@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Parcel grid -->
+  <rect x="1" y="1" width="30" height="30" rx="2" fill="#f0f7f0" stroke="#2e7d32" stroke-width="1.5"/>
+  <rect x="3"  y="3"  width="12" height="10" fill="#81c784" stroke="#2e7d32" stroke-width="1"/>
+  <rect x="17" y="3"  width="12" height="14" fill="#a5d6a7" stroke="#2e7d32" stroke-width="1"/>
+  <rect x="3"  y="15" width="12" height="14" fill="#a5d6a7" stroke="#2e7d32" stroke-width="1"/>
+  <rect x="17" y="19" width="12" height="10" fill="#81c784" stroke="#2e7d32" stroke-width="1"/>
+  <!-- Pencil (no background), bottom-right, rotated -->
+  <g transform="translate(23,24) rotate(-45)">
+    <rect x="-2.5" y="-8" width="5" height="10" rx="1" fill="#37474f"/>
+    <polygon points="-2.5,2 2.5,2 0,7" fill="#37474f"/>
+    <rect x="-2.5" y="-10.5" width="5" height="3" rx="0.8" fill="#90a4ae"/>
+  </g>
+</svg>

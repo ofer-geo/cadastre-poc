@@ -1,0 +1,8 @@
+[general]
+name=Cadastre History Viewer
+qgisMinimumVersion=3.16
+description=Click a parcel on the map to view its full version history
+version=0.1
+author=Cadastre POC
+email=admin@example.com
+hasProcessingProvider=no
